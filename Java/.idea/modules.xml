@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clase01/Clase01.iml" filepath="$PROJECT_DIR$/Clase01/Clase01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase02/Clase02.iml" filepath="$PROJECT_DIR$/Clase02/Clase02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase03/Clase03.iml" filepath="$PROJECT_DIR$/Clase03/Clase03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase04/Clase04.iml" filepath="$PROJECT_DIR$/Clase04/Clase04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase05/Clase05.iml" filepath="$PROJECT_DIR$/Clase05/Clase05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase06/Clase06.iml" filepath="$PROJECT_DIR$/Clase06/Clase06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase07/Clase07.iml" filepath="$PROJECT_DIR$/Clase07/Clase07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase08/Clase08.iml" filepath="$PROJECT_DIR$/Clase08/Clase08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase09/Clase09.iml" filepath="$PROJECT_DIR$/Clase09/Clase09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase10/Clase10.iml" filepath="$PROJECT_DIR$/Clase10/Clase10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase10/PaqueteFinal/PaqueteFinal.iml" filepath="$PROJECT_DIR$/Clase10/PaqueteFinal/PaqueteFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase10/Paquetes/Paquetes.iml" filepath="$PROJECT_DIR$/Clase10/Paquetes/Paquetes.iml" />
+    </modules>
+  </component>
+</project>
